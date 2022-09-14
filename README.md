@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo(a)! 👋
 
 - 👨‍💻 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas.
-- 📝 Hoje, estudo: *Bancos de Dados Relacionais (PI), Programação Web(Html, Css, Js) e Cálculo 1.* 
+- 📝 Hoje, estudo: *Bancos de Dados Relacionais (Microsoft SQL Server), Programação Web(Html, Css, Js) e Cálculo 1.* 
 - ⌨️ Atualmente aprendendo as linguagens: *R, C, JavaScript, Html, Css e Python.*
 - 📧 Contate-me no e-mail: henry.demetrio@hotmail.com
 
